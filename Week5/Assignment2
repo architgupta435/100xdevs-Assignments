@@ -1,3 +1,0 @@
- log the no of users visiting ,methods and the url (uderstnding the concepts of middleware)
-Middleware is the function in a express library which helps us to modify the requests ,stop the req-res cycle and pass the req to next route handler /
-It is basically used for authentication purposes. 
